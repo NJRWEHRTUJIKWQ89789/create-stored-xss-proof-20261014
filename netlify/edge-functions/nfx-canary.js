@@ -10,5 +10,5 @@ export default async () => {
 };
 
 export const config = {
-  path: "/nfx-canary",
+  path: "/edge",
 };
